@@ -1,9 +1,3 @@
-> **“A Hybrid Deep Learning-Based Approach in Agricultural Sustainability: Apple Orchard Study”** 
-
-It is structured for an academic GitHub repository and clearly aligned with the methodology and results in the paper.
-
----
-
 # A Hybrid Deep Learning-Based Approach in Agricultural Sustainability
 
 ## Apple Orchard Study
